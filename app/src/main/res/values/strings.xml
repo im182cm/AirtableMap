@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AirtableMap</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="tv_api_key">API Key</string>
+    <string name="tv_base_id">Base ID</string>
+    <string name="tv_table_name">Table Name</string>
+    <string name="tv_view_name">View Name</string>
+    <string name="tv_address_field">Address Field</string>
+    <string name="tv_colon">:</string>
+
+    <string name="bt_start">Start</string>
+    <string name="bt_sample">Set sample data</string>
+    <string name="bt_delete">Delete</string>
+    <string name="bt_save">Save</string>
+    <string name="bt_add_field">Add field</string>
+
+    <string name="toast_fill_all_values">Please fill all values.</string>
+    <string name="toast_marker_created">A marker is created.</string>
+    <string name="toast_marker_updated">The marker is updated.</string>
+    <string name="toast_marker_removed">The marker is removed.</string>
+    <string name="toast_marker_canceled">Creating marker is canceled.</string>
+</resources>

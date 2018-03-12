@@ -1,0 +1,25 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=EB:F4:6C:B4:EB:28:40:72:89:ED:B4:2D:D3:01:8F:11:3F:09:E3:D0%3Bphilip.com.airtablemap
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    EB:F4:6C:B4:EB:28:40:72:89:ED:B4:2D:D3:01:8F:11:3F:09:E3:D0
+
+    SHA-1 certificate fingerprint:
+    EB:F4:6C:B4:EB:28:40:72:89:ED:B4:2D:D3:01:8F:11:3F:09:E3:D0
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBAfIp8J8YTz70ld7vztWxGuQ7UNL0FFLY</string>
+    <string name="google_geocoding_key">AIzaSyB4spX9sjYBn9pwSV45BqYEDff2DQpy-m0</string>
+</resources>
